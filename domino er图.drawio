@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T08:24:20.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HtgchG0JaIEQw8zMTuqX" version="24.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-24T08:26:32.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WjPOJ3hr9lbY1IZk8rCi" version="24.7.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2206" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1524,7 +1524,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZSIvCzHIsaNrCrfs8tm-136" value="流程用户组表（process_user_group)" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeWidth=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1390" width="240" height="235" as="geometry">
+          <mxGeometry x="630" y="1140" width="240" height="235" as="geometry">
             <mxRectangle x="960" y="245" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2100,7 +2100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZSIvCzHIsaNrCrfs8tm-300" value="选择器字段表（select_value）" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeWidth=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="625" width="240" height="235" as="geometry">
+          <mxGeometry x="-20" y="625" width="240" height="205" as="geometry">
             <mxRectangle x="960" y="245" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2165,19 +2165,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZSIvCzHIsaNrCrfs8tm-318" value="父级id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="XZSIvCzHIsaNrCrfs8tm-316">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wOk014uuaLwrEesRhaqp-91" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;" vertex="1" parent="XZSIvCzHIsaNrCrfs8tm-300">
-          <mxGeometry y="195" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wOk014uuaLwrEesRhaqp-92" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="wOk014uuaLwrEesRhaqp-91">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wOk014uuaLwrEesRhaqp-93" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="wOk014uuaLwrEesRhaqp-91">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2448,7 +2435,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZSIvCzHIsaNrCrfs8tm-386" value="业务线表（business)" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeWidth=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1390" width="240" height="220" as="geometry">
+          <mxGeometry x="620" y="1440" width="240" height="220" as="geometry">
             <mxRectangle x="960" y="245" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
